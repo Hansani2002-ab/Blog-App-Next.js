@@ -1,0 +1,9 @@
+{
+  "/api/blog/route": "app/api/blog/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/email/route": "app/api/email/route.js",
+  "/page": "app/page.js",
+  "/blogs/[id]/page": "app/blogs/[id]/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/addProduct/page": "app/admin/addProduct/page.js"
+}
